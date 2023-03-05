@@ -34,9 +34,11 @@
       "@components/*": [
         "components/*"
       ],
-      "@styles/*": [
-        "styles/*"
-      ],
+
+        "@styles/*": [
+          "styles/*"
+        ],
+      
       "@lib/*": [
         "lib/*"
       ]
